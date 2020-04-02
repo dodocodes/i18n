@@ -95,7 +95,7 @@
   "raining": "Regen",
   "raised_visitor_count": "Besucherzahl erhöht",
   "save_profile": "Profil speichern",
-  "select_one": "Wähle eines",
+  "select_one": "Wähle eine Option",
   "select_weather": "Wähle ein Wetter",
   "share_a_little_about_yourself": "Erzähl ein bisschen von dir. Dies ist dann sichtbar auf deinem <a href=\"/user/{{currentUser.profile.name}}\">öffentlichen Profil</a>.",
   "sharing_your_friends_code_is_totally_optional": "Den Freundescode zu teilen ist komplett optional! Sieht in etwa so aus: SW-0000-0000-0000.",
