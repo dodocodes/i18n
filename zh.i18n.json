@@ -146,7 +146,7 @@
   "save_profile": "保存个人资料",
   "select_one": "请选择一个",
   "select_weather": "选择天气",
-  "share_a_little_about_yourself": "分享一些关于你自己。这将分享在 <a href=\"/user/%s\">public 个人资料</a>.",
+  "share_a_little_about_yourself": "分享一些关于你自己。这将分享在 <a href=\"/user/%s\">公开个人资料</a>.",
   "share_your_dodo_airlines_codes": "分享您的渡渡航空代码",
   "sharing_your_friends_code_is_totally_optional": "可选共享朋友代码 代码样本是 SW-0000-0000-0000.",
   "short_sleeve_dress": "短袖连衣裙",
